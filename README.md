@@ -1,8 +1,4 @@
 # blinkit-sales-dashboard
-Got it! When uploading to GitHub, it's best to have a README.md file that provides a clear overview of your project. This is the first thing people see when they land on your repository.
-
-Here's the project description formatted for a GitHub README.md file, including typical sections you'd find in such a document:
-
 Blinkit Sales Analytics Dashboard
 Project Overview
 The Blinkit Sales Analytics Dashboard is an interactive Power BI report designed to provide comprehensive insights into sales performance, customer ratings, and item distribution for Blinkit. This dashboard aims to empower stakeholders with data-driven understanding of key sales trends, identification of top-performing items and outlets, and analysis of sales distribution across various outlet types and locations. The ultimate goal is to facilitate strategic decision-making and drive operational improvements.
